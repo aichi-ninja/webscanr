@@ -4,6 +4,8 @@ Web based security testing software. This software is intended to help contribut
 
 Features
 ========
+Not all these features are completed, this is pretty much a wishlist or works in progress.
+
 - SQL Injection Scanner
 - XSS Scanner
 - MD5 Hash Collider
