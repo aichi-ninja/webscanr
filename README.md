@@ -13,3 +13,4 @@ Not all these features are completed, this is pretty much a wishlist or works in
 - CSRF (Cross Site Request Forgery) scanner
 - Member/Free subscriptions (payment system)
 - Bootstrap Based UI
+- Uses Smarty Template System
